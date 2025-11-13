@@ -4,7 +4,7 @@ This is a beginner-friendly HTML project developed using Visual Studio Code. It 
 
  **Project Features**
 
-- Semantic HTML layout (<header>, <main>, <footer>)
+- Semantic HTML layout 
 - Basic text formatting using headings, paragraphs, and lists
 - Image embedding and hyperlinking
 - Simple form elements (e.g., input, button)
